@@ -1,4 +1,6 @@
 # PEC3: La evolución de la hibridación del software más allá de Manovich: Roblox y Runway ML
+![new-20-1024x630](https://github.com/user-attachments/assets/2cd16416-5c0d-4bdb-bc77-23a7e8d3583c)
+
 Autora: Claudia Beatriz Sánchez Ortega
 
 Asignatura: Cultura Digital
