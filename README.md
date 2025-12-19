@@ -15,6 +15,8 @@ Desde mi perspectiva como diseñadora UX/UI y gráfica, este enfoque resulta esp
 Partiendo de este marco, este ensayo analiza dos casos actuales que podrían formar parte de una posible actualización de "El software toma el mando": Roblox y Runway ML. Aunque se sitúan en contextos distintos, ambos permiten observar cómo el software ha transformado las prácticas creativas y cómo la hibridación sigue evolucionando en la cultura digital contemporánea.
 
 ## Caso 1: Roblox como entorno híbrido de creación cultural
+![WUdnquJWWuu73Mbt6Ek3KW-1280-80](https://github.com/user-attachments/assets/7a0871dc-264f-43c7-ad44-84d11e8a6199)
+
 Cuando se habla de Roblox, lo más habitual es pensar en que es una plataforma de videojuegos para niños y adolescentes. Sin embargo, si se analiza con algo más de calma, resulta evidente que Roblox es más que un simple juego. Se trata de un entorno digital en el que se mezclan creación de contenidos, interacción social, programación y una economía propia, todo dentro de la misma plataforma.
 
 Una de las cosas que más llama la atención es que en Roblox no existe una separación clara entre jugar y crear. Los usuarios no solo consumen experiencias diseñadas por otros, sino que también pueden construir sus propios mundos, definir reglas y compartirlos con la comunidad. Esto cambia completamente el papel del usuario, que deja de ser solo jugador para convertirse también en creador. Desde el punto de vista de Manovich, este aspecto encaja bien con la idea del software como metamedio, ya que integra prácticas que antes estaban claramente separadas.
@@ -28,6 +30,8 @@ Otro aspecto relevante es la dimensión económica. Roblox incorpora una moneda 
 Se trata de un buen ejemplo de cómo ha evolucionado la hibridación de los medios en la cultura digital actual. No se limita a mezclar formatos, sino que integra distintos roles, prácticas y sistemas dentro de un mismo entorno. Desde esta perspectiva, puede entenderse como un caso actual que amplía y actualiza muchas de las ideas planteadas por Manovich sobre el papel del software en la cultura contemporánea.
 
 ## Caso 2: Runway ML y la hibridación mediante IA generativa
+![Evaluacion-de-RunwayML-1](https://github.com/user-attachments/assets/06ccf188-518d-44c0-b375-0c469b11b901)
+
 Runway ML se presenta como una herramienta orientada a la creación audiovisual, pero en la práctica funciona como algo más amplio. No es solo un programa para editar vídeo o generar imágenes, sino una plataforma que integra diferentes tipos de medios y procesos creativos en un mismo entorno. Texto, imagen, vídeo y sonido conviven dentro de una única interfaz, mediada por sistemas de inteligencia artificial.
 
 Uno de los aspectos más interesantes de esta plataforma es que cambia la forma tradicional de relacionarse con las herramientas de creación. En lugar de trabajar directamente sobre el material, como ocurre en los programas de edición clásicos, gran parte del proceso se basa en dar indicaciones, ajustar parámetros y probar distintas opciones. El software se encarga de ejecutar esas decisiones, lo que desplaza el foco del trabajo hacia una dimensión más conceptual.
